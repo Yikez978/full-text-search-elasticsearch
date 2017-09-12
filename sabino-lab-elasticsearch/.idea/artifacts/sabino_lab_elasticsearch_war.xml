@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="sabino-lab-elasticsearch:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="sabino-lab-elasticsearch.war">
-      <element id="artifact" artifact-name="sabino-lab-elasticsearch:war exploded" />
-    </root>
-  </artifact>
-</component>
